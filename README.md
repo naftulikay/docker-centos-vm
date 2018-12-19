@@ -1,5 +1,11 @@
 # docker-centos-vm [![Build Status][svg-travis]][travis] [![Docker Build][svg-docker]][docker]
 
+## :fire: ABANDONWARE :fire:
+
+FYI this image is being deprecated in favor of [naftulikay/docker-centos7-vm](https://github.com/naftulikay/docker-centos-7-vm). Not including a major version in the repository name was a mistake.
+
+---
+
 A lightweight CentOS VM in Docker. [Based on `geerlingguy/docker-centos7-ansible`][upstream], do read the author's
 [excellent post][post] about testing Ansible across multiple operating systems.
 
